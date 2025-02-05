@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">A passionate MERN Stack Developer with a keen interest in exploring new technologies. I enjoy creating efficient, user-friendly, and dynamic web applications. Besides programming, I love traveling and reading books.</p>
+<p align="left">A passionate MERN Stack Developer strong enthusiasm for exploring new technologies. I enjoy creating efficient, user-friendly, responsive, and dynamic web applications. Besides programming, I love traveling and reading books.</p>
 
 ###
 
